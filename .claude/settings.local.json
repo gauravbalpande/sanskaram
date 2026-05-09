@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:colorhunt.co)",
+      "Bash(sed -i \"s/background: 'linear-gradient\\(180deg, #F5F2EB 0%, #EDE8DC 100%\\)'/background: 'linear-gradient\\(180deg, #F0F7E8 0%, #E4F5D0 100%\\)'/\" \"/c/Users/shete/OneDrive/Desktop/sanskaram/src/sections/About/index.jsx\")",
+      "Bash(sed -i \"s/background: 'linear-gradient\\(135deg, #255C1E 0%, #1C4018 100%\\)'/background: 'linear-gradient\\(135deg, #468432 0%, #2A5220 100%\\)'/\" \"/c/Users/shete/OneDrive/Desktop/sanskaram/src/sections/VoicesComing/index.jsx\")",
+      "Bash(sed -i \"s/background: 'linear-gradient\\(180deg, #EFF5EA 0%, #DDE8D5 50%, #EFF5EA 100%\\)'/background: 'linear-gradient\\(180deg, #F0F7E8 0%, #C8EDAE 50%, #F0F7E8 100%\\)'/\" \"/c/Users/shete/OneDrive/Desktop/sanskaram/src/sections/VoicesComing/index.jsx\")",
+      "Bash(Copy-Item \"C:\\\\Users\\\\shete\\\\Downloads\\\\ChatGPT Image May 9, 2026, 02_34_42 PM.png\" \"C:\\\\Users\\\\shete\\\\OneDrive\\\\Desktop\\\\sanskaram\\\\public\\\\founder.jpg\" -Force)"
+    ]
+  }
+}
